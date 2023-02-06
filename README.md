@@ -4,7 +4,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Built small social pet project
+- 🥅 2023 Goals: Built small social pet project
 - ⚡ Fun fact: I love to drink and play poker
 
 ### Languages and Tools:
