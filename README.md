@@ -4,7 +4,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Built small social pet project
+- 🥅 2023 Goals: Built pet project with NextJs + Rust
 - ⚡ Fun fact: I love to drink and play poker
 
 ![Profile views](https://gpvc.arturio.dev/ivermin1123)
