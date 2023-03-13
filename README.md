@@ -3,7 +3,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- I’m currently learning Rust
 - 🥅 2023 Goals: Built pet project with NextJs + Rust
 - ⚡ Fun fact: I love to drink and play poker
 
