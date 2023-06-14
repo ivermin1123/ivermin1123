@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Built pet project with NextJs + Rust
 - ⚡ Fun fact: I love to drink and play poker
 
-![Profile views](https://gpvc.arturio.dev/ivermin1123)
+![](https://komarev.com/ghpvc/?username=ivermin1123)
 
 ### Languages and Tools:
 
