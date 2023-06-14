@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivermin1123&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivermin1123&theme=monokai)
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
