@@ -4,7 +4,7 @@
 ## I'm a Developer!!
 
 - I’m currently learning Back-end in depth
-- 🥅 2023 Goals: Built pet project with NextJs + Rust
+- 🥅 2023 Goals: Built pet project about streaming platform with NextJs + Golang/Nestjs
 - ⚡ Fun fact: I love to drink and play poker
 
 ![](https://komarev.com/ghpvc/?username=ivermin1123)
