@@ -1,7 +1,7 @@
 # Hi there, I'm HOANG
 
 
-## I'm a Developer!!
+## I'm a Software Engineer!!
 
 - I’m currently learning Front-end in depth
 - ⚡ Fun fact: I love to drink and play poker
