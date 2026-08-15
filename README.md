@@ -13,7 +13,7 @@ software honest — especially software that agents touch.
 
 **Before**
 
-- [GEN](https://gen.new) — AI media generation platform: designed and shipped Vidsheets (spreadsheet-style batch video), led the performance program that cut the main bundle by 86%
+- GEN — AI media generation platform: designed and shipped Vidsheets (spreadsheet-style batch video), led the performance program that cut the main bundle by 86%
 - Employment Hero — HR platform serving 300,000+ businesses: digital onboarding (−50% setup time), UI standardization across squads, React Native auth (2FA, biometrics)
 
 **Elsewhere** — [hoangle.xyz](https://hoangle.xyz) · [LinkedIn](https://www.linkedin.com/in/ivermin1123) · ivermin1123@gmail.com
