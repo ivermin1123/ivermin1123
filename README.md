@@ -2,6 +2,8 @@
 
 **Senior software engineer · Ho Chi Minh City**
 
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,go" alt="TypeScript, React, Node.js, Go" height="32">
+
 Product-minded full stack: six years of TypeScript, React and Node.js.
 I start from the business problem, ship, then measure.
 I build design systems, data pipelines, AI chatbots and multi-tenant backends.
