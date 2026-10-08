@@ -13,8 +13,6 @@ I build design systems, data pipelines, AI chatbots and multi-tenant backends.
 - **[mcp-cassette](https://github.com/ivermin1123/mcp-cassette)**: record a real MCP session once, replay it forever as CI mocks ([docs](https://mcpcassette.dev), [npm](https://www.npmjs.com/package/mcp-cassette))
 - **[AuthStunt](https://github.com/ivermin1123/authstunt)**: self-hosted test identity manager in Go, with a real mailbox per persona. Early alpha
 
-**Open to senior fullstack roles, full-time or contract, remote.**
-
 ### Before
 
 - **GEN**: built Vidsheets, AI video generation with spreadsheet semantics, and cut the main bundle by 37%
