@@ -17,7 +17,6 @@ I build design systems, data pipelines, AI chatbots and multi-tenant backends.
 
 ### Before
 
-- **GEN**: built Vidsheets, AI video generation with spreadsheet semantics, and cut the main bundle by 37%
 - **[Employment Hero](https://employmenthero.com/)**, an HR and payroll platform serving 300,000+ businesses: built the design system and led and mentored a team of four
 
 ### Elsewhere
