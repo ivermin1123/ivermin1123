@@ -22,4 +22,4 @@ I build design systems, data pipelines, AI chatbots and multi-tenant backends.
 
 ### Elsewhere
 
-[hoangle.xyz](https://hoangle.xyz) · [LinkedIn](https://www.linkedin.com/in/ivermin1123) · ivermin1123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ivermin1123) · ivermin1123@gmail.com
